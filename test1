@@ -13,4 +13,5 @@
     git push -u ori_test1 master
 
     git push ori_test1 master
- di er ci tui song
+
+    git clone [url]
