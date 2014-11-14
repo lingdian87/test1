@@ -6,4 +6,11 @@
 
     git reset --hard HEAD [comid]
 
+二.关联远程库
 
+    git remote add ori_test1 [url]
+
+    git push -u ori_test1 master
+
+    git push ori_test1 master
+ di er ci tui song
