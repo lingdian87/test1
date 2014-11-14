@@ -15,3 +15,15 @@
     git push ori_test1 master
 
     git clone [url]
+
+三.分支管理
+
+  git checkout -b [name]
+
+  git checkout [name]
+
+  git branch -d [name]
+
+  git merge [name]
+
+  git branch
