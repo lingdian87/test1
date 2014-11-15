@@ -27,9 +27,13 @@
   git merge [name]
 
   git branch
-  雪   
-  和
-  杨
-  友
-  好
-  是
+
+  git stash
+
+  git stash list
+
+  git stash apply
+
+  git stash drop
+
+  git stash pop
