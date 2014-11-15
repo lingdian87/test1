@@ -26,8 +26,6 @@
 
   git merge [name]
   
- 四.多人协作
- 
   git pull 
   
   git fetch
@@ -43,3 +41,10 @@
   git stash drop
 
   git stash pop
+
+四.多人协作
+
+  git fetch [远程库名] [本地库名]:[二者的别名]   git diff [比较二者的别名]  git merge [二者的别名] 
+
+  git pull
+
