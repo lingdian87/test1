@@ -25,6 +25,12 @@
   git branch -d [name]
 
   git merge [name]
+  
+ 四.多人协作
+ 
+  git pull 
+  
+  git fetch
 
   git branch
 
